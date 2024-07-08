@@ -7,4 +7,4 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: /testscripts/
 domain: guydup.github.io
 url: https://guydup.github.io
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
