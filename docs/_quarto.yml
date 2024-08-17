@@ -2,27 +2,21 @@ project:
   type: website
 
 website:
-  title: "Toolbox AI Waterkeringen"
+  title: "AI Toolbox Waterkeringen"
+  search: false
   navbar:
+    title: false
     left:
-      - reference/index.qmd
-    # right:
-      # - icon: github
-        # href: https://github.com/REPOLINK
-        # aria-label: GitHub
+      - icon: house-fill
+        href: "./index.html"
+        aria-label: Home
+    right:
+      - more.qmd
+      - about.qmd
+      - contact.qmd
 
 format:
   html:
     theme: solar
-    css: styles.css
+    css: assets/styles.css
     toc: true
-
-quartodoc:
-  style: pkgdown
-  dir: reference
-  title: API Reference
-  package: null
-  sections:
-    - title: Test section
-      package: testscripts
-      desc: Toolbox AI Waterkeringen

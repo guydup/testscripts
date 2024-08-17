@@ -1,0 +1,28 @@
+.page-layout-custom {
+    display: grid;
+    align-items: center;
+    text-align: center;
+}
+
+.page-layout-custom header {
+    align-self: last baseline;
+}
+
+.page-layout-custom header h1 {
+    font-size: 5rem;
+}
+
+.page-layout-custom .abstract .block-title {
+    display: none;
+}
+
+.page-layout-custom .custom-content {
+    align-self: first baseline;
+}
+
+.page-layout-custom .custom-content .btn-primary {
+    padding-left: 4rem;
+    padding-right: 4rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
