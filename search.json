@@ -1,8 +1,29 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Toolbox AI Waterkeringen",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Placeholder."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Over ons",
+    "section": "",
+    "text": "Placeholder."
+  },
+  {
+    "objectID": "digigids.html",
+    "href": "digigids.html",
+    "title": "DigigGids 2.0",
+    "section": "",
+    "text": "Placeholder."
+  },
+  {
+    "objectID": "more.html",
+    "href": "more.html",
+    "title": "Meer weten",
     "section": "",
     "text": "Placeholder."
   }
